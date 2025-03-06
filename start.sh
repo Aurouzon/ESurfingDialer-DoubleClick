@@ -14,7 +14,7 @@ else
     read -p "请输入用户名: " USERNAME
     read -p "请输入密码: " PASSWORD
     echo  -e "USERNAME=\"$USERNAME\"\nPASSWORD=\"$PASSWORD\"" > "$CONFIG_FILE"
-    chmod 600 "$CONFIG_FILE" # 保护配置文件权限
+    chmod 600 "$CONFIG_FILE" 
     echo "配置已保存。"
 fi
 
