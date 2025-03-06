@@ -1,4 +1,4 @@
-# ESurfingDialer-onekey
+# ESurfingDialer-DoubleClick
 本项目用于在 `Mac (x64)` 下一键启动[ESurfingDialer](https://github.com/Rsplwe/ESurfingDialer)，`Mac (arm64)`的计划推迟一会
 
 
