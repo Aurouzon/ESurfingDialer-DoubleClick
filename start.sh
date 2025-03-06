@@ -20,4 +20,4 @@ fi
 
 echo "正在执行..."
 
-sudo "$JAVA_PATH" -jar "$JAR_PATH" -u "$USERNAME" -p "$PASSWORD"
+"$JAVA_PATH" -jar "$JAR_PATH" -u "$USERNAME" -p "$PASSWORD"
